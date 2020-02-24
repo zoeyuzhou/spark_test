@@ -36,7 +36,6 @@ def main():
         .option("path","/Users/zoe/Applications/py_spark_test/spark_test/data/result_" + ts1)\
         .save()
 
-
 if __name__=="__main__":
     sys.exit(main())
 
